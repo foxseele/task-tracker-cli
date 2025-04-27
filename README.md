@@ -33,7 +33,7 @@ Task Tracker CLI — это консольное приложение для у�
 ## Установка
 
 ### Для пользователей (Windows)
-1. Скачай `task-tracker-cli-installer.exe` из [Releases](https://github.com/<твой_пользователь>/task-tracker-cli/releases).
+1. Скачай `task-tracker-cli-installer.exe` из [Releases](https://github.com/foxseele/task-tracker-cli/releases).
 2. Запусти установщик с правами администратора.
 3. Убедись, что JDK 23 установлен:
     - Скачай JDK 23 с [Adoptium](https://adoptium.net/temurin/releases/?version=23).
